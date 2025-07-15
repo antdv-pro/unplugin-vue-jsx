@@ -1,6 +1,6 @@
 import process from 'node:process'
 import { getPackageInfoSync } from 'local-pkg'
-import type { VueJSXPluginOptions } from '@vue/babel-plugin-jsx'
+import type { VueJSXPluginOptions } from '@v-c/babel-plugin-jsx'
 import type { FilterPattern } from 'unplugin-utils'
 
 export type Vue2JSXOptions = {

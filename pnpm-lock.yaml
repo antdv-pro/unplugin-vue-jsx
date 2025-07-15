@@ -14,9 +14,9 @@ importers:
       '@babel/plugin-syntax-typescript':
         specifier: ^7.27.1
         version: 7.27.1(@babel/core@7.28.0)
-      '@vue/babel-plugin-jsx':
-        specifier: npm:@v-c/babel-plugin-jsx@^1.4.1
-        version: '@v-c/babel-plugin-jsx@1.4.1(@babel/core@7.28.0)'
+      '@v-c/babel-plugin-jsx':
+        specifier: ^1.4.1
+        version: 1.4.1(@babel/core@7.28.0)
       '@vue/babel-preset-jsx':
         specifier: ^1.4.0
         version: 1.4.0(@babel/core@7.28.0)(vue@3.5.17(typescript@5.8.3))
